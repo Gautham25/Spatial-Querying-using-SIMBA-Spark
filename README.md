@@ -2,6 +2,12 @@
 
 #Some of the data files are too big for github hence cannot be uploaded here
 
+1. Retrieved all the restaurants located inside the 5th road ring of the city of Beijing. 
+2. Determined count of how many people (average per hour) are around 2 Km of the famous Tiananmen Square in Beijing on workdays (Monday to Friday)
+3. Used midpoints of the area from the 5th ring found previously and determined the number of trajectories start in a quadrant but end in a different one and how many trajectories start and end in the same quadrant
+4. Divided the trajectory dataset into samples between two months and discovered the top 20 points with the highest the number of points within 100 meters radius around them
+5. Discovered the top 10 most popular Points of interest between different year individually
+
 First, unzip the project folder. Then go into the project folder. Run sbt package
 
 Second, go into the spark folder
