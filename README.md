@@ -2,6 +2,11 @@
 
 #Some of the data files are too big for github hence cannot be uploaded here
 
+Part one
+Create RTree index using the Spark SIMBA on the dataset provided 
+
+Part two
+
 1. Retrieved all the restaurants located inside the 5th road ring of the city of Beijing. 
 2. Determined count of how many people (average per hour) are around 2 Km of the famous Tiananmen Square in Beijing on workdays (Monday to Friday)
 3. Used midpoints of the area from the 5th ring found previously and determined the number of trajectories start in a quadrant but end in a different one and how many trajectories start and end in the same quadrant
