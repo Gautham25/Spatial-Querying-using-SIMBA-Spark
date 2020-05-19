@@ -1,10 +1,8 @@
 # Spatial-Querying-using-SIMBA-Spark
 
-#############################
-First, unzip the project folder. Then go into the project folder. Run sbt package
+#First, unzip the project folder. Then go into the project folder. Run sbt package
 
-#############################
-Second, go into the spark folder
+#Second, go into the spark folder
 
 #############################
 Then
